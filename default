@@ -11,10 +11,11 @@ server {
         try_files $uri $uri/ /index.php?$args; # changed for Laravel
     }
 
-    location /register { 
-        login  login.php login.html login.htm;           
+    login login.php login.html login.htm;
+    location / {            
         try_files $uri $uri/ /index.php?$args; # changed for Laravel
     }
+
     error_page   500 502 503 504  /50x.html;
     location = /50x.html {
         root   /html/;
