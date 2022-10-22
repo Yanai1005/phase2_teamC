@@ -24,7 +24,6 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        $group_id=Member::all();
-        view()->share('group_id', $group_id);
+        //
     }
 }
