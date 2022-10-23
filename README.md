@@ -47,7 +47,7 @@ cdn
 npm
 ![image](https://ptera-publish.topaz.dev/project/01GG124EZ7CAM187D9BPRWQENX.png)
 ## azureを使ってデプロイ
-![image](https://ptera-publish.topaz.dev/project/01GG16P8WGFEBX92SZ3E6DPBDB.png)
+![image](https://ptera-publish.topaz.dev/project/01GG17BMTDVR0XNRYK0CX296T8.png)
 
 ![image](https://ptera-publish.topaz.dev/project/01GG16H2PTZA3WZE08ZJ38T9W9.png)
 index画面しか表示されず、他の画面はエラーがでていたが、npm install npm run buildで解決した
