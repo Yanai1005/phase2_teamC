@@ -33,11 +33,11 @@
 
 
 # アーキテクチャ図
-![image](https://ptera-publish.topaz.dev/project/01GG17198EC91QNQ43B24RWNV1.png)
+![image](https://ptera-publish.topaz.dev/project/01GG17GVWT9037B1Y6VCYND3WS.png)
 
 ![image](https://ptera-publish.topaz.dev/project/01GG162MX1FE66V8BX2A2XXX76.png)
 
-![image](https://ptera-publish.topaz.dev/project/01GG124EZ7CAM187D9BPRWQENX.png)
+![image](https://ptera-publish.topaz.dev/project/01GG17JKR93XZ2M6BPMGB1FJEM.png)
 # 技術的チャレンジ
 
 ## fullcalendarをcdnからnpmに
