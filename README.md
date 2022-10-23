@@ -33,7 +33,7 @@
 
 
 # アーキテクチャ図
-![image](https://ptera-publish.topaz.dev/project/01GG162WP32CAM52ZV23XJTGXD.png)
+![image](https://ptera-publish.topaz.dev/project/01GG17198EC91QNQ43B24RWNV1.png)
 
 ![image](https://ptera-publish.topaz.dev/project/01GG162MX1FE66V8BX2A2XXX76.png)
 
